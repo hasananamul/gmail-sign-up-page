@@ -1,0 +1,138 @@
+.header {
+	background-color: #F1F1F1;
+}
+.header_content{
+    padding: 10px;
+    max-width: 1500px;
+    margin: auto;
+}
+.top_logo img {
+	height: 50px;
+}
+.sign_up_button button {
+    background: #3C81EF;
+    color: #fff;
+    border: 0;
+    padding: 5px 15px;
+    border-radius: 4px;
+}
+/* main content */
+.main_content_text {
+	text-align: center;
+	margin-top: 60px;
+	color: #555555;
+}
+.left_content_text {
+	text-align: center;
+	margin-top: 70px;
+	margin-bottom: 25px;
+}
+.left_content_text h5 {
+	font-size: 25px;
+	color: #555;
+}
+.left_content_text p {
+	color: #555;
+}
+.social_logo {
+	text-align: center;
+}
+.picture_left {
+	margin-top: 39px;
+}
+.right_content {
+	margin-top: 50px;
+}
+.right_form {
+	background: #f1f1f1;
+	padding: 25px;
+	width: 80%;
+	margin: auto;
+	border-radius: 6px;
+}
+.right_form form label {
+	display: block;
+	color: #000;
+	font-weight: 600;
+	margin-top: 15px;
+}
+.right_form form input {
+	border: 1px solid #d9d9d9;
+    padding: 5px 10px;
+    width: 92%;
+}
+.name_box input {
+	width: 45% !important;
+}
+.birth_select_item select {
+	text-transform: capitalize;
+	border: 1px solid #d9d9d9;
+    padding: 2px;
+    color: #999;
+}
+.gender_select select {
+	width: 92%;
+	padding: 5px;
+	border: 1px solid #d9d9d9;
+    color: #999;
+    background-color: #f1f1f1;
+}
+.mobile_no_select select {
+	padding: 6px;
+	border: 1px solid #d9d9d9;
+}
+.mobile_no_select input {
+	width: 76% !important;
+	margin-left: -8px;
+}
+.robot-img {
+	text-align: center;
+}
+.robot-img img {
+	width: 100%;
+}
+.robot_proof_img {
+	background: #fff;
+	padding: 13px;
+}
+.robot_proof_img #text {
+	width: 70%!important;
+}
+.robot_proof_option span {
+	display: block;
+	font-size: 18px;
+	font-weight: 600;
+}
+.robot_check {
+	display: flex;
+}
+.robot_proof_option input,.agree_box input {
+	width: 20px !important;
+	margin-right: 12px;
+}
+.robot_proof_option label,.agree_box label {
+	font-size: 14px;
+}
+.location_select select {
+	width: 92%;
+	border: 1px solid #d9d9d9;
+	padding: 5px;
+}
+.agree_box {
+	display: flex;
+}
+.form_button {
+	text-align: end;
+}
+.right_form button{
+    background-color: #3C81EF;
+    padding: 3px 10px;
+    color: #fff;
+    border-radius: 4px;
+    font-size: 13px;
+}
+.footer_text {
+	text-align: center;
+	padding: 20px 0px;
+	font-size: 13px;
+}
